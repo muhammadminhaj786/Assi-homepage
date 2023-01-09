@@ -1,0 +1,268 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.nav{
+    height: 200px;
+    width: 100%;
+    display: flex;
+}
+.logo{
+    display: flex;
+    width: 100%;
+    height: 120px;
+
+}
+.logo img{
+    width: 50%;
+    margin-top: 20px;
+    margin-left: 50px;
+
+}
+.list ul{
+    display: flex;
+    list-style: none;
+    color: black;
+}
+.list ul li{
+    width: 50px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+.b1{
+    display: flex;
+    height: 300px;
+    
+}
+.txt{
+    width: 50%;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.img{
+    width: 60%;
+    margin-top: 10px;
+    margin-right: 50px;
+}
+.list ul li button{
+    background-color: #0d6efd;
+    color: white;
+    border-color: #0d6efd;
+    width: 70px;
+    height: 30px;
+}
+.btn{
+    display: flex;
+    width: 75%;
+    height: 200px;
+    border: 1px solid black;
+    margin-top: 200px;
+    border-radius: 25px;
+    margin-left: 50px;
+    margin-right: 40px;
+    background-color: lightgreen;
+    justify-content: space-between;
+}
+.txt2{
+    margin-top: 20px;
+    margin-left: 40px;
+    width: 40%;
+}
+.btns{
+    display: inline-block;
+}
+.bt1{
+    width: 200px;
+    background-color: black;
+    color: white;
+    height: 50px;
+    margin-top: 20px;
+    
+}
+.bt2{
+    width: 100px;
+    background-color: white;
+    color: black;
+    margin-right: 10px;
+    height: 50px;
+}
+.bt3{
+    width: 100px;
+    background-color: white;
+    color: black;
+    margin-right: 10px;
+    height: 60px;
+}
+.bt4{
+    width: 100px;
+    background-color: white;
+    color: black;
+    margin-right: 10px;
+    height: 50px;
+}
+.bt5{
+    width: 100px;
+    height: 60px;
+    background-color: greenyellow;
+    color: #fff;
+    border-color: green;
+}
+.q1{
+    color: #0d6efd;
+    padding-top: 50px;
+}
+.img3 {
+    margin-top: 30px;
+    margin-left: 50px;
+    height: 500px;
+    width: 90%;
+}
+.img3 img{
+    height: 400px;
+    width: 85%;
+}
+.w1{
+    margin-left: 400px;
+}
+.img4{
+    margin-left: 40px;
+}
+.b3{
+    height: 200px;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    
+}
+.card1{
+    background-image: url(./images/46ccd3e9-3acf-4139-bd8b-8f93c9fa57ae.jpg);
+    height: 300px;
+    width: 30%;
+    margin-left: 40px;
+    color: #fff;
+    
+    
+}
+.card2{
+    background-image: url(./images/cbcbd0d4-16a9-49f9-a36b-292431441967.jpg);
+    height: 300px;
+    width: 30%;
+    margin-left: 10px;
+    color: #fff;
+    
+}
+.card3{
+    background-image: url(./images/db1ef105-5640-46bd-a160-6cb7709c6381.jpg);
+    height: 300px;
+    width: 30%;
+    margin-left: 10px;
+    color: #fff;
+}
+.card1 h2{
+    margin-top: 170px;
+}
+.card2 h2{
+    margin-top: 200px;
+}
+.card3 h2{
+    margin-top: 200px;
+}
+.card1 button{
+    width: 300px;
+    height: 30px;
+    color: #fff;
+    background-color: lightgreen;
+    margin-left: 10px;
+}
+.card2 button{
+    width: 300px;
+    height: 30px;
+    color: #fff;
+    background-color: lightgreen;
+    margin-left: 10px;
+}
+.card3 button{
+    width: 300px;
+    height: 30px;
+    color: #fff;
+    background-color: lightgreen;
+    margin-left: 10px;
+}
+
+
+.b4{
+    height: 300px;
+    width: 90%;
+    margin-top: 120px;
+    margin-left: 40px;
+    display: flex;
+}
+.img5{
+    height: 100px;
+    width: 30%;
+    margin-top: 30px;
+}
+.txt4{
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.txt4 h2{
+    color: #0d6efd;
+}
+.heading{
+    margin-top: 250px;
+    margin-left: 320px;
+}
+.vdo1{
+    margin-top: 50px;
+    display: flex;
+    margin-left: 30px;
+    
+    
+}
+.vdo2{
+    margin-top: 20px;
+    display: flex;
+    margin-left: 30px;
+} 
+.i2{
+    margin-left: 25px;
+}
+.i3{
+    margin-left: 25px;
+}
+.i5{
+    margin-left: 25px;
+}
+.i6{
+    margin-left: 25px;
+}
+.footer{
+    background-image: url(./images/istockphoto-1332097112-170667a.jpg);
+    height: 500px;
+    width: 90%;
+    margin-left: 30px;
+ 
+}
+.ending{
+    display: flex;
+}
+.el2{
+    list-style: none;
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 30px;
+    text-decoration: none;
+}
+.el3{
+    list-style: none;
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 30px;
+    text-decoration: none;
+}
+.a{
+    display: flex;
+}
